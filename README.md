@@ -1,6 +1,6 @@
 # 💫 About Me:
 learning inf. sec. and full-stack dev :)
-uni: RTU MIREA
+
 
 
 ## 🌐 Socials:
