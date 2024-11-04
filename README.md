@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤔 Information Security & Full-Stack intern
+🤔 Information Security intern
 
 
 ## 🌐 Socials:
