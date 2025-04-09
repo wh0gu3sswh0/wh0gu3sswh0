@@ -7,11 +7,12 @@
                      //  _  \\
                     | \     )|_
                    /`\_`>  <_/ \
-                   \__/'---'\__/                                            
+                   \__/'---'\__/
+                                       
      Hey! I'm wh0gu3sshw0, real name's Alexey.  
      I'm a passionate infosec lover, interested
      in penetrarion testing & DevSecOps. I enjoy
-     playing CTFs and somteimes coding in Python.
+     playing CTFs and sometimes coding in Python.
 
      My technology stack on 09.04.2025 includes:
      Linux; Bash; Python; OSI, TCP/IP, DNS, etc.;
