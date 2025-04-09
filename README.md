@@ -1,16 +1,24 @@
-## Hi there 👋
+```brainfuck
+                                                                               
+                       .---.
+                      /     \
+                      \.@-@./
+                      /`\_/`\
+                     //  _  \\
+                    | \     )|_
+                   /`\_`>  <_/ \
+                   \__/'---'\__/                                            
+     Hey! I'm wh0gu3sshw0, real name's Alexey.  
+     I'm a passionate infosec lover, interested
+     in penetrarion testing & DevSecOps. I enjoy
+     playing CTFs and somteimes coding in Python.
 
-<!--
-**wh0gu3sswh0/wh0gu3sswh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     My technology stack on 09.04.2025 includes:
+     Linux; Bash; Python; OSI, TCP/IP, DNS, etc.;
+     OWASP TOP 10; Docker; Git; Burp Suite.     
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+              [telegram: wh0gu3sswh0]
+           
+```
+![wh0gu3sswh0's Stats](https://github-readme-stats.vercel.app/api?username=wh0gu3sswh0&theme=material-palenight&show_icons=true&hide_border=false&count_private=false)
+![wh0gu3sswh0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh0gu3sswh0&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
