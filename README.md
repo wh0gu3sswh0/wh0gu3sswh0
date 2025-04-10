@@ -11,7 +11,7 @@
                                        
      Hey! I'm wh0gu3sshw0, real name's Alexey.  
      I'm a passionate infosec lover, interested
-     in penetrarion testing & DevSecOps. I enjoy
+     in penetrarion testing & Dev(Sec)Ops. I enjoy
      playing CTFs and sometimes coding in Python.
 
      My technology stack on 09.04.2025 includes:
